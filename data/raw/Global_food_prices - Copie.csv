@@ -1,0 +1,1062 @@
+country_code;date;county;market;market_id;category;commodity;commodity_id;unit;price_flag;price_type;currency;local_price;price_usd
+JPN;15/04/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2139;25.74
+JPN;15/04/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2399;28.87
+JPN;15/04/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;598;7.2
+JPN;15/05/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2090;25.87
+JPN;15/05/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;500;6.19
+JPN;15/05/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2375;29.4
+JPN;15/05/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;590;7.3
+JPN;15/06/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2116;26.11
+JPN;15/06/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;500;6.17
+JPN;15/06/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2432;30.01
+JPN;15/06/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;598;7.38
+JPN;15/07/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2066;26.12
+JPN;15/07/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;500;6.32
+JPN;15/07/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2405;30.4
+JPN;15/07/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;578;7.31
+JPN;15/08/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;508;6.61
+JPN;15/08/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2399;31.22
+JPN;15/08/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;578;7.52
+JPN;15/09/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2066;26.93
+JPN;15/09/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;500;6.52
+JPN;15/09/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2330;30.37
+JPN;15/09/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;579;7.55
+JPN;15/10/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2258;29.3
+JPN;15/10/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;514;6.67
+JPN;15/10/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2445;31.73
+JPN;15/11/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2241;29.08
+JPN;15/11/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;514;6.67
+JPN;15/11/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2448;31.76
+JPN;15/11/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;578;7.5
+JPN;15/12/2011;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2299;29.51
+JPN;15/12/2011;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;488;6.26
+JPN;15/12/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2493;32
+JPN;15/12/2011;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;587;7.54
+JPN;15/01/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;495;6.44
+JPN;15/01/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2545;33.12
+JPN;15/01/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;580;7.55
+JPN;15/02/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2265;28.92
+JPN;15/02/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;516;6.59
+JPN;15/02/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2585;33
+JPN;15/02/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;580;7.4
+JPN;15/03/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2267;27.15
+JPN;15/03/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;531;6.36
+JPN;15/03/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2576;30.85
+JPN;15/03/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;568;6.8
+JPN;15/04/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2300;28.55
+JPN;15/04/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;534;6.63
+JPN;15/04/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2592;32.18
+JPN;15/05/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2308;28.79
+JPN;15/05/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;519;6.47
+JPN;15/05/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2559;31.92
+JPN;15/05/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;595;7.42
+JPN;15/06/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2348;29.84
+JPN;15/06/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;540;6.86
+JPN;15/06/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2568;32.63
+JPN;15/06/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;583;7.41
+JPN;15/07/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2374;30.06
+JPN;15/07/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;536;6.79
+JPN;15/07/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2583;32.71
+JPN;15/08/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2390;30.26
+JPN;15/08/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2557;32.37
+JPN;15/08/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;569;7.2
+JPN;15/09/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2383;30.36
+JPN;15/09/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;536;6.83
+JPN;15/09/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2550;32.49
+JPN;15/09/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;7.42
+JPN;15/10/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;532;6.77
+JPN;15/10/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2604;33.12
+JPN;15/10/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;586;7.45
+JPN;15/11/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2456;30.27
+JPN;15/11/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;532;6.56
+JPN;15/11/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2609;32.15
+JPN;15/11/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;578;7.12
+JPN;15/12/2012;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2433;29.1
+JPN;15/12/2012;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;491;5.87
+JPN;15/12/2012;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;585;7
+JPN;15/01/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2417;27.22
+JPN;15/01/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;511;5.76
+JPN;15/01/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2608;29.38
+JPN;15/01/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;580;6.53
+JPN;15/02/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2417;25.86
+JPN;15/02/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;519;5.55
+JPN;15/02/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2585;27.65
+JPN;15/02/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;592;6.33
+JPN;15/03/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2415;25.36
+JPN;15/03/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;521;5.47
+JPN;15/03/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2627;27.58
+JPN;15/03/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;586;6.15
+JPN;15/04/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2415;24.96
+JPN;15/04/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;504;5.21
+JPN;15/04/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2573;26.59
+JPN;15/04/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;596;6.16
+JPN;15/05/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2390;23.38
+JPN;15/05/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;521;5.1
+JPN;15/05/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2593;25.36
+JPN;15/05/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;5.69
+JPN;15/06/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2390;25.37
+JPN;15/06/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;546;5.8
+JPN;15/06/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2559;27.16
+JPN;15/07/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2382;23.86
+JPN;15/07/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;548;5.49
+JPN;15/07/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2566;25.7
+JPN;15/07/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;590;5.91
+JPN;15/08/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2390;24.55
+JPN;15/08/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;525;5.39
+JPN;15/08/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;589;6.05
+JPN;15/09/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2365;23.85
+JPN;15/09/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;539;5.44
+JPN;15/09/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2609;26.31
+JPN;15/09/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;576;5.81
+JPN;15/10/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;572;5.83
+JPN;15/10/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2532;25.79
+JPN;15/10/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;598;6.09
+JPN;15/11/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2315;23.11
+JPN;15/11/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;573;5.72
+JPN;15/11/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2532;25.27
+JPN;15/12/2013;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2282;22.14
+JPN;15/12/2013;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;513;4.98
+JPN;15/12/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2496;24.22
+JPN;15/12/2013;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;572;5.55
+JPN;15/01/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2283;21.84
+JPN;15/01/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;528;5.05
+JPN;15/01/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2466;23.59
+JPN;15/01/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;563;5.38
+JPN;15/02/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2283;22.42
+JPN;15/02/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;550;5.4
+JPN;15/02/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2440;23.96
+JPN;15/02/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;585;5.75
+JPN;15/03/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2241;22.08
+JPN;15/03/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;547;5.39
+JPN;15/03/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.33
+JPN;15/03/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;183;1.8
+JPN;15/03/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;184;1.81
+JPN;15/03/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;167;1.65
+JPN;15/03/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;318;3.13
+JPN;15/03/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2422;23.87
+JPN;15/03/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;572;5.64
+JPN;15/03/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;232;2.29
+JPN;15/03/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;213;2.1
+JPN;15/03/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.93
+JPN;15/03/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;200;1.97
+JPN;15/03/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;149;1.47
+JPN;15/04/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;319;3.13
+JPN;15/04/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2314;22.71
+JPN;15/04/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;561;5.5
+JPN;15/04/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;226;2.22
+JPN;15/04/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;226;2.22
+JPN;15/04/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.96
+JPN;15/04/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;185;1.82
+JPN;15/04/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;167;1.64
+JPN;15/04/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2474;24.28
+JPN;15/04/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;600;5.89
+JPN;15/04/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;208;2.04
+JPN;15/04/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;206;2.02
+JPN;15/04/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;139;1.36
+JPN;15/05/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;343;3.38
+JPN;15/05/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2327;22.91
+JPN;15/05/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;234;2.3
+JPN;15/05/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.21
+JPN;15/05/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.96
+JPN;15/05/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;178;1.75
+JPN;15/05/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;163;1.6
+JPN;15/05/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;326;3.21
+JPN;15/05/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2498;24.6
+JPN;15/05/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;591;5.82
+JPN;15/05/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2.34
+JPN;15/05/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;220;2.17
+JPN;15/05/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;206;2.03
+JPN;15/05/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;150;1.48
+JPN;15/06/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2273;22.31
+JPN;15/06/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;563;5.52
+JPN;15/06/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;224;2.2
+JPN;15/06/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;220;2.16
+JPN;15/06/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;194;1.9
+JPN;15/06/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;149;1.46
+JPN;15/06/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;169;1.66
+JPN;15/06/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;339;3.33
+JPN;15/06/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2481;24.35
+JPN;15/06/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;598;5.87
+JPN;15/06/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.35
+JPN;15/06/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;221;2.17
+JPN;15/06/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;204;2
+JPN;15/06/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;147;1.44
+JPN;15/06/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;145;1.42
+JPN;15/07/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;351;3.45
+JPN;15/07/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2244;22.07
+JPN;15/07/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;5.53
+JPN;15/07/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;224;2.2
+JPN;15/07/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;223;2.19
+JPN;15/07/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.87
+JPN;15/07/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;163;1.6
+JPN;15/07/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;171;1.68
+JPN;15/07/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;330;3.25
+JPN;15/07/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2473;24.32
+JPN;15/07/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.32
+JPN;15/07/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;2.13
+JPN;15/07/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;205;2.02
+JPN;15/07/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;155;1.52
+JPN;15/08/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;362;3.54
+JPN;15/08/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2235;21.84
+JPN;15/08/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;547;5.34
+JPN;15/08/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2.32
+JPN;15/08/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;223;2.18
+JPN;15/08/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.92
+JPN;15/08/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;161;1.57
+JPN;15/08/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;181;1.77
+JPN;15/08/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;326;3.19
+JPN;15/08/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;585;5.72
+JPN;15/08/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.31
+JPN;15/08/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;219;2.14
+JPN;15/08/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;204;1.99
+JPN;15/08/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;151;1.48
+JPN;15/08/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;173;1.69
+JPN;15/09/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;333;3.11
+JPN;15/09/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2176;20.31
+JPN;15/09/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.09
+JPN;15/09/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.78
+JPN;15/09/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;230;2.15
+JPN;15/09/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;339;3.16
+JPN;15/09/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2496;23.29
+JPN;15/09/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;585;5.46
+JPN;15/09/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;233;2.17
+JPN;15/09/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;2.03
+JPN;15/09/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.88
+JPN;15/09/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;228;2.13
+JPN;15/10/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;319;3.01
+JPN;15/10/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2129;20.1
+JPN;15/10/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;552;5.21
+JPN;15/10/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;2.27
+JPN;15/10/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;220;2.08
+JPN;15/10/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.79
+JPN;15/10/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;251;2.37
+JPN;15/10/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;165;1.56
+JPN;15/10/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2357;22.26
+JPN;15/10/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;593;5.6
+JPN;15/10/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.23
+JPN;15/10/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;2.05
+JPN;15/10/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;205;1.94
+JPN;15/10/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;209;1.97
+JPN;15/10/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.55
+JPN;15/11/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;308;2.65
+JPN;15/11/2014;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2046;17.58
+JPN;15/11/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;548;4.71
+JPN;15/11/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2.04
+JPN;15/11/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.92
+JPN;15/11/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;189;1.62
+JPN;15/11/2014;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;149;1.28
+JPN;15/11/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;147;1.26
+JPN;15/11/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;313;2.69
+JPN;15/11/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2304;19.79
+JPN;15/11/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2.04
+JPN;15/11/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;1.86
+JPN;15/11/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;122;1.05
+JPN;15/11/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;117;1.01
+JPN;15/12/2014;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;302;2.56
+JPN;15/12/2014;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;523;4.44
+JPN;15/12/2014;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.05
+JPN;15/12/2014;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;221;1.88
+JPN;15/12/2014;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.63
+JPN;15/12/2014;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;141;1.2
+JPN;15/12/2014;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;309;2.62
+JPN;15/12/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2308;19.59
+JPN;15/12/2014;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;578;4.91
+JPN;15/12/2014;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2.01
+JPN;15/12/2014;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.83
+JPN;15/12/2014;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;203;1.72
+JPN;15/12/2014;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;158;1.34
+JPN;15/12/2014;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;120;1.02
+JPN;15/01/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2015;17.35
+JPN;15/01/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;542;4.67
+JPN;15/01/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;2.1
+JPN;15/01/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;217;1.87
+JPN;15/01/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;150;1.29
+JPN;15/01/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;313;2.69
+JPN;15/01/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2311;19.89
+JPN;15/01/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;573;4.93
+JPN;15/01/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;234;2.01
+JPN;15/01/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;1.87
+JPN;15/01/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.74
+JPN;15/01/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;229;1.97
+JPN;15/01/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;154;1.33
+JPN;15/02/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;311;2.62
+JPN;15/02/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2057;17.35
+JPN;15/02/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;554;4.67
+JPN;15/02/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2
+JPN;15/02/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.89
+JPN;15/02/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;193;1.63
+JPN;15/02/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;194;1.64
+JPN;15/02/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;147;1.24
+JPN;15/02/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;316;2.67
+JPN;15/02/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;586;4.94
+JPN;15/02/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2
+JPN;15/02/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;218;1.84
+JPN;15/02/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;202;1.7
+JPN;15/02/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;170;1.43
+JPN;15/03/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;326;2.69
+JPN;15/03/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2013;16.59
+JPN;15/03/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;556;4.58
+JPN;15/03/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;2.01
+JPN;15/03/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;226;1.86
+JPN;15/03/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;193;1.59
+JPN;15/03/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;162;1.34
+JPN;15/03/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;161;1.33
+JPN;15/03/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2279;18.78
+JPN;15/03/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;576;4.75
+JPN;15/03/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;1.94
+JPN;15/03/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.77
+JPN;15/03/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;203;1.67
+JPN;15/03/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;169;1.39
+JPN;15/03/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;157;1.29
+JPN;15/04/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;423;3.55
+JPN;15/04/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;565;4.74
+JPN;15/04/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.01
+JPN;15/04/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.66
+JPN;15/04/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;232;1.95
+JPN;15/04/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;191;1.6
+JPN;15/04/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;358;3.01
+JPN;15/04/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;1.99
+JPN;15/04/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.86
+JPN;15/04/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.7
+JPN;15/04/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;255;2.14
+JPN;15/04/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;192;1.61
+JPN;15/05/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;460;3.86
+JPN;15/05/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;1999;16.76
+JPN;15/05/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;550;4.61
+JPN;15/05/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2
+JPN;15/05/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;188;1.58
+JPN;15/05/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;366;3.07
+JPN;15/05/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;210;1.76
+JPN;15/05/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;409;3.43
+JPN;15/05/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2265;18.99
+JPN;15/05/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;584;4.9
+JPN;15/05/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;232;1.95
+JPN;15/05/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.68
+JPN;15/05/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;212;1.78
+JPN;15/06/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;467;3.78
+JPN;15/06/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2008;16.27
+JPN;15/06/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;555;4.5
+JPN;15/06/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;231;1.87
+JPN;15/06/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.6
+JPN;15/06/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;196;1.59
+JPN;15/06/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;174;1.41
+JPN;15/06/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;443;3.59
+JPN;15/06/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2239;18.14
+JPN;15/06/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;580;4.7
+JPN;15/06/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;235;1.9
+JPN;15/06/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.8
+JPN;15/06/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.63
+JPN;15/06/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;188;1.52
+JPN;15/06/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;160;1.3
+JPN;15/07/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;538;4.35
+JPN;15/07/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;547;4.42
+JPN;15/07/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;241;1.95
+JPN;15/07/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;229;1.85
+JPN;15/07/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.55
+JPN;15/07/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;202;1.63
+JPN;15/07/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;474;3.83
+JPN;15/07/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2263;18.29
+JPN;15/07/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;588;4.75
+JPN;15/07/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;1.91
+JPN;15/07/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;221;1.79
+JPN;15/07/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;167;1.35
+JPN;15/07/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;188;1.52
+JPN;15/08/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;472;3.8
+JPN;15/08/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;1974;15.88
+JPN;15/08/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;558;4.49
+JPN;15/08/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;231;1.86
+JPN;15/08/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.57
+JPN;15/08/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;215;1.73
+JPN;15/08/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;192;1.54
+JPN;15/08/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;437;3.51
+JPN;15/08/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2253;18.12
+JPN;15/08/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;581;4.67
+JPN;15/08/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;1.93
+JPN;15/08/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;221;1.78
+JPN;15/08/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.58
+JPN;15/08/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;188;1.51
+JPN;15/08/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;199;1.6
+JPN;15/09/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;379;3.15
+JPN;15/09/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2019;16.77
+JPN;15/09/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;4.67
+JPN;15/09/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;252;2.09
+JPN;15/09/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.59
+JPN;15/09/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;236;1.96
+JPN;15/09/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;188;1.56
+JPN;15/09/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;343;2.85
+JPN;15/09/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;588;4.88
+JPN;15/09/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;1.99
+JPN;15/09/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;221;1.84
+JPN;15/09/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.64
+JPN;15/09/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;226;1.88
+JPN;15/09/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;204;1.69
+JPN;15/10/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;344;2.89
+JPN;15/10/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2055;17.29
+JPN;15/10/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;575;4.84
+JPN;15/10/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;246;2.07
+JPN;15/10/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;233;1.96
+JPN;15/10/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;194;1.63
+JPN;15/10/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;183;1.54
+JPN;15/10/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;328;2.76
+JPN;15/10/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2307;19.41
+JPN;15/10/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;596;5.01
+JPN;15/10/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.87
+JPN;15/10/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.66
+JPN;15/10/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;277;2.33
+JPN;15/10/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;182;1.53
+JPN;15/11/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;337;2.74
+JPN;15/11/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2059;16.74
+JPN;15/11/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;594;4.83
+JPN;15/11/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;246;2
+JPN;15/11/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;1.89
+JPN;15/11/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;193;1.57
+JPN;15/11/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;161;1.31
+JPN;15/11/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;315;2.56
+JPN;15/11/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2331;18.96
+JPN;15/11/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;603;4.9
+JPN;15/11/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;1.98
+JPN;15/11/2015;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;1.81
+JPN;15/11/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.62
+JPN;15/11/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;138;1.12
+JPN;15/12/2015;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;325;2.67
+JPN;15/12/2015;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2112;17.36
+JPN;15/12/2015;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;554;4.55
+JPN;15/12/2015;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;1.99
+JPN;15/12/2015;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;1.91
+JPN;15/12/2015;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.56
+JPN;15/12/2015;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;145;1.19
+JPN;15/12/2015;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;130;1.07
+JPN;15/12/2015;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;303;2.49
+JPN;15/12/2015;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;591;4.86
+JPN;15/12/2015;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;243;2
+JPN;15/12/2015;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.62
+JPN;15/12/2015;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;135;1.11
+JPN;15/12/2015;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;111;0.91
+JPN;15/01/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;346;2.96
+JPN;15/01/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;572;4.89
+JPN;15/01/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;233;1.99
+JPN;15/01/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.64
+JPN;15/01/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;139;1.19
+JPN;15/01/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;310;2.65
+JPN;15/01/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2318;19.8
+JPN;15/01/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;612;5.23
+JPN;15/01/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.07
+JPN;15/01/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.91
+JPN;15/01/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.69
+JPN;15/01/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;125;1.07
+JPN;15/01/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;118;1.01
+JPN;15/02/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;372;3.25
+JPN;15/02/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2190;19.11
+JPN;15/02/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;570;4.98
+JPN;15/02/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.09
+JPN;15/02/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;229;2
+JPN;15/02/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.67
+JPN;15/02/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;146;1.27
+JPN;15/02/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;148;1.29
+JPN;15/02/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;336;2.93
+JPN;15/02/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2309;20.15
+JPN;15/02/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;615;5.37
+JPN;15/02/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;2.13
+JPN;15/02/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.96
+JPN;15/02/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.74
+JPN;15/02/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;138;1.2
+JPN;15/02/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;139;1.21
+JPN;15/03/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;393;3.47
+JPN;15/03/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2161;19.1
+JPN;15/03/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;4.97
+JPN;15/03/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;245;2.16
+JPN;15/03/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;233;2.06
+JPN;15/03/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.69
+JPN;15/03/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;159;1.4
+JPN;15/03/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;356;3.15
+JPN;15/03/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2343;20.7
+JPN;15/03/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;617;5.45
+JPN;15/03/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.98
+JPN;15/03/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;159;1.4
+JPN;15/04/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2161;19.87
+JPN;15/04/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;5.35
+JPN;15/04/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;246;2.26
+JPN;15/04/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;233;2.14
+JPN;15/04/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.77
+JPN;15/04/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;189;1.74
+JPN;15/04/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;169;1.55
+JPN;15/04/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;409;3.76
+JPN;15/04/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2329;21.42
+JPN;15/04/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;616;5.67
+JPN;15/04/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.23
+JPN;15/04/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.06
+JPN;15/04/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.84
+JPN;15/04/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;210;1.93
+JPN;15/04/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;188;1.73
+JPN;15/05/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;526;4.83
+JPN;15/05/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2131;19.57
+JPN;15/05/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;5.35
+JPN;15/05/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;2.24
+JPN;15/05/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;231;2.12
+JPN;15/05/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.75
+JPN;15/05/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;223;2.05
+JPN;15/05/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;175;1.61
+JPN;15/05/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;421;3.87
+JPN;15/05/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2357;21.65
+JPN;15/05/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;625;5.74
+JPN;15/05/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;2.04
+JPN;15/05/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.83
+JPN;15/05/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;207;1.9
+JPN;15/05/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;167;1.53
+JPN;15/06/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;537;5.07
+JPN;15/06/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2126;20.06
+JPN;15/06/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;576;5.43
+JPN;15/06/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;237;2.24
+JPN;15/06/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;2.19
+JPN;15/06/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;186;1.75
+JPN;15/06/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;180;1.7
+JPN;15/06/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;447;4.22
+JPN;15/06/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2357;22.24
+JPN;15/06/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;621;5.86
+JPN;15/06/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.11
+JPN;15/06/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.89
+JPN;15/06/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;190;1.79
+JPN;15/06/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.55
+JPN;15/07/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;421;4.02
+JPN;15/07/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2108;20.11
+JPN;15/07/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2.27
+JPN;15/07/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;2.21
+JPN;15/07/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;189;1.8
+JPN;15/07/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;169;1.61
+JPN;15/07/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;208;1.98
+JPN;15/07/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;452;4.31
+JPN;15/07/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2360;22.51
+JPN;15/07/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;626;5.97
+JPN;15/07/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.28
+JPN;15/07/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.14
+JPN;15/07/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.91
+JPN;15/07/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;148;1.41
+JPN;15/07/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;213;2.03
+JPN;15/08/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;467;4.61
+JPN;15/08/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;548;5.41
+JPN;15/08/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;245;2.42
+JPN;15/08/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;2.29
+JPN;15/08/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;168;1.66
+JPN;15/08/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;191;1.89
+JPN;15/08/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;446;4.41
+JPN;15/08/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2333;23.04
+JPN;15/08/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;622;6.14
+JPN;15/08/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.36
+JPN;15/08/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.96
+JPN;15/08/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;133;1.31
+JPN;15/08/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;201;1.99
+JPN;15/09/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;407;3.99
+JPN;15/09/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2109;20.66
+JPN;15/09/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;565;5.53
+JPN;15/09/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;243;2.38
+JPN;15/09/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;230;2.25
+JPN;15/09/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.86
+JPN;15/09/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;170;1.67
+JPN;15/09/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;228;2.23
+JPN;15/09/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;386;3.78
+JPN;15/09/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2391;23.42
+JPN;15/09/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;625;6.12
+JPN;15/09/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2.33
+JPN;15/09/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;227;2.22
+JPN;15/09/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.97
+JPN;15/09/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;231;2.26
+JPN;15/10/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;400;3.84
+JPN;15/10/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2172;20.87
+JPN;15/10/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;577;5.54
+JPN;15/10/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;243;2.33
+JPN;15/10/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.83
+JPN;15/10/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;254;2.44
+JPN;15/10/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;373;3.58
+JPN;15/10/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;620;5.96
+JPN;15/10/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;2.15
+JPN;15/10/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;261;2.51
+JPN;15/10/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;253;2.43
+JPN;15/11/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;386;3.54
+JPN;15/11/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2230;20.43
+JPN;15/11/2016;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;244;2.24
+JPN;15/11/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;233;2.13
+JPN;15/11/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.74
+JPN;15/11/2016;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;381;3.49
+JPN;15/11/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;273;2.5
+JPN;15/11/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;365;3.34
+JPN;15/11/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2372;21.73
+JPN;15/11/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.22
+JPN;15/11/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.81
+JPN;15/11/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;346;3.17
+JPN;15/12/2016;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;388;3.28
+JPN;15/12/2016;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2266;19.18
+JPN;15/12/2016;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;557;4.71
+JPN;15/12/2016;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;230;1.95
+JPN;15/12/2016;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.61
+JPN;15/12/2016;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;203;1.72
+JPN;15/12/2016;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;368;3.11
+JPN;15/12/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2384;20.18
+JPN;15/12/2016;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;607;5.14
+JPN;15/12/2016;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;241;2.04
+JPN;15/12/2016;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;1.89
+JPN;15/12/2016;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.65
+JPN;15/12/2016;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;233;1.97
+JPN;15/12/2016;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.39
+JPN;15/01/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;407;3.56
+JPN;15/01/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2240;19.62
+JPN;15/01/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;545;4.77
+JPN;15/01/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;250;2.19
+JPN;15/01/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;232;2.03
+JPN;15/01/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;190;1.66
+JPN;15/01/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;244;2.14
+JPN;15/01/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;174;1.52
+JPN;15/01/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;382;3.35
+JPN;15/01/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2355;20.63
+JPN;15/01/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;615;5.39
+JPN;15/01/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.12
+JPN;15/01/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;224;1.96
+JPN;15/01/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.74
+JPN;15/01/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;213;1.87
+JPN;15/01/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;166;1.45
+JPN;15/02/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;415;3.64
+JPN;15/02/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2258;19.78
+JPN;15/02/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;571;5
+JPN;15/02/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;252;2.21
+JPN;15/02/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;230;2.01
+JPN;15/02/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.68
+JPN;15/02/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;239;2.09
+JPN;15/02/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;172;1.51
+JPN;15/02/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2370;20.76
+JPN;15/02/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;612;5.36
+JPN;15/02/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;243;2.13
+JPN;15/02/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;1.95
+JPN;15/02/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.73
+JPN;15/02/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;219;1.92
+JPN;15/02/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.44
+JPN;15/03/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;450;3.97
+JPN;15/03/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2258;19.92
+JPN;15/03/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;221;1.95
+JPN;15/03/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;175;1.54
+JPN;15/03/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2406;21.23
+JPN;15/03/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;616;5.43
+JPN;15/03/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.76
+JPN;15/03/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;229;2.02
+JPN;15/03/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;161;1.42
+JPN;15/04/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2258;20.82
+JPN;15/04/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;574;5.29
+JPN;15/04/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.9
+JPN;15/04/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.82
+JPN;15/04/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;244;2.25
+JPN;15/04/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;174;1.6
+JPN;15/04/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;438;4.04
+JPN;15/04/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;614;5.66
+JPN;15/04/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;239;2.2
+JPN;15/04/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;2.06
+JPN;15/04/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;244;2.25
+JPN;15/04/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;178;1.64
+JPN;15/05/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;456;4.01
+JPN;15/05/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2284;20.1
+JPN;15/05/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;249;2.19
+JPN;15/05/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;201;1.77
+JPN;15/05/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.74
+JPN;15/05/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;232;2.04
+JPN;15/05/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;176;1.55
+JPN;15/05/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;455;4
+JPN;15/05/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2371;20.87
+JPN;15/05/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;2.11
+JPN;15/05/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.95
+JPN;15/05/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.78
+JPN;15/05/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;197;1.73
+JPN;15/05/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;177;1.56
+JPN;15/06/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;399;3.59
+JPN;15/06/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;589;5.31
+JPN;15/06/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.87
+JPN;15/06/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.78
+JPN;15/06/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;179;1.61
+JPN;15/06/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;190;1.71
+JPN;15/06/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;426;3.84
+JPN;15/06/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2385;21.49
+JPN;15/06/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;618;5.57
+JPN;15/06/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;2.16
+JPN;15/06/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;2.01
+JPN;15/06/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.82
+JPN;15/06/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;186;1.68
+JPN;15/07/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;381;3.39
+JPN;15/07/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2214;19.68
+JPN;15/07/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;587;5.22
+JPN;15/07/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;245;2.18
+JPN;15/07/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.84
+JPN;15/07/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;172;1.53
+JPN;15/07/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;178;1.58
+JPN;15/07/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;380;3.38
+JPN;15/07/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2359;20.97
+JPN;15/07/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;620;5.51
+JPN;15/07/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.1
+JPN;15/07/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.97
+JPN;15/07/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;145;1.29
+JPN;15/07/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;179;1.59
+JPN;15/08/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;391;3.53
+JPN;15/08/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2258;20.4
+JPN;15/08/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;559;5.05
+JPN;15/08/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.87
+JPN;15/08/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.78
+JPN;15/08/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;160;1.45
+JPN;15/08/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;174;1.57
+JPN;15/08/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2391;21.61
+JPN;15/08/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;613;5.54
+JPN;15/08/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;232;2.1
+JPN;15/08/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;223;2.02
+JPN;15/08/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.81
+JPN;15/08/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;139;1.26
+JPN;15/08/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;171;1.55
+JPN;15/09/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;393;3.55
+JPN;15/09/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2255;20.34
+JPN;15/09/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;576;5.2
+JPN;15/09/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.18
+JPN;15/09/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;204;1.84
+JPN;15/09/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;193;1.74
+JPN;15/09/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;187;1.69
+JPN;15/09/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2403;21.68
+JPN;15/09/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;628;5.67
+JPN;15/09/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;233;2.1
+JPN;15/09/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;2
+JPN;15/09/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.8
+JPN;15/09/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;182;1.64
+JPN;15/10/2017;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;374;3.34
+JPN;15/10/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2294;20.5
+JPN;15/10/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;589;5.26
+JPN;15/10/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;236;2.11
+JPN;15/10/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.74
+JPN;15/10/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;174;1.55
+JPN;15/10/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;344;3.07
+JPN;15/10/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2395;21.4
+JPN;15/10/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;617;5.51
+JPN;15/10/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;234;2.09
+JPN;15/10/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;222;1.98
+JPN;15/10/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;200;1.79
+JPN;15/10/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;143;1.28
+JPN;15/10/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;157;1.4
+JPN;15/11/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2354;20.86
+JPN;15/11/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;241;2.14
+JPN;15/11/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.73
+JPN;15/11/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;224;1.98
+JPN;15/11/2017;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;203;1.8
+JPN;15/11/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;331;2.93
+JPN;15/11/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2429;21.52
+JPN;15/11/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;617;5.47
+JPN;15/11/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;233;2.06
+JPN;15/11/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;1.92
+JPN;15/11/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.75
+JPN;15/11/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;185;1.64
+JPN;15/11/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;175;1.55
+JPN;15/12/2017;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2363;20.99
+JPN;15/12/2017;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;563;5
+JPN;15/12/2017;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;238;2.11
+JPN;15/12/2017;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.84
+JPN;15/12/2017;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;192;1.71
+JPN;15/12/2017;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;270;2.4
+JPN;15/12/2017;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;328;2.91
+JPN;15/12/2017;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2434;21.62
+JPN;15/12/2017;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;242;2.15
+JPN;15/12/2017;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;210;1.87
+JPN;15/12/2017;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;194;1.72
+JPN;15/12/2017;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;255;2.27
+JPN;15/12/2017;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;226;2.01
+JPN;15/01/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;328;2.97
+JPN;15/01/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2295;20.77
+JPN;15/01/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;5.09
+JPN;15/01/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;249;2.25
+JPN;15/01/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;203;1.84
+JPN;15/01/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.76
+JPN;15/01/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;387;3.5
+JPN;15/01/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;327;2.96
+JPN;15/01/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2433;22.01
+JPN;15/01/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;245;2.22
+JPN;15/01/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;209;1.89
+JPN;15/01/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.79
+JPN;15/01/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;361;3.27
+JPN;15/01/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;312;2.82
+JPN;15/02/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;358;3.37
+JPN;15/02/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2363;22.27
+JPN;15/02/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;571;5.38
+JPN;15/02/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;250;2.36
+JPN;15/02/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.94
+JPN;15/02/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.84
+JPN;15/02/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;425;4.01
+JPN;15/02/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;331;3.12
+JPN;15/02/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2438;22.98
+JPN;15/02/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;610;5.75
+JPN;15/02/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.88
+JPN;15/02/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;401;3.78
+JPN;15/02/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;301;2.84
+JPN;15/03/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;364;3.42
+JPN;15/03/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2318;21.8
+JPN;15/03/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;555;5.22
+JPN;15/03/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;253;2.38
+JPN;15/03/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.95
+JPN;15/03/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.8
+JPN;15/03/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;274;2.58
+JPN;15/03/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2466;23.19
+JPN;15/03/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;611;5.75
+JPN;15/03/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;250;2.35
+JPN;15/03/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.96
+JPN;15/03/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.87
+JPN;15/03/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;309;2.91
+JPN;15/03/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;248;2.33
+JPN;15/04/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;414;3.85
+JPN;15/04/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2336;21.73
+JPN;15/04/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;561;5.22
+JPN;15/04/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;260;2.42
+JPN;15/04/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.92
+JPN;15/04/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;191;1.78
+JPN;15/04/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;263;2.45
+JPN;15/04/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;191;1.78
+JPN;15/04/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;335;3.12
+JPN;15/04/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2474;23.01
+JPN;15/04/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;612;5.69
+JPN;15/04/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;251;2.33
+JPN;15/04/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.85
+JPN;15/04/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;189;1.76
+JPN;15/04/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;171;1.59
+JPN;15/05/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;407;3.69
+JPN;15/05/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2414;21.88
+JPN;15/05/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;245;2.22
+JPN;15/05/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.87
+JPN;15/05/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;194;1.76
+JPN;15/05/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;222;2.01
+JPN;15/05/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;177;1.6
+JPN;15/05/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;332;3.01
+JPN;15/05/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2431;22.03
+JPN;15/05/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;613;5.56
+JPN;15/05/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;246;2.23
+JPN;15/05/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.88
+JPN;15/05/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.8
+JPN;15/05/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;145;1.31
+JPN;15/05/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.49
+JPN;15/06/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;358;3.24
+JPN;15/06/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2441;22.06
+JPN;15/06/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;5.08
+JPN;15/06/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;248;2.24
+JPN;15/06/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.87
+JPN;15/06/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.76
+JPN;15/06/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;169;1.53
+JPN;15/06/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;192;1.74
+JPN;15/06/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;332;3
+JPN;15/06/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2460;22.23
+JPN;15/06/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;612;5.53
+JPN;15/06/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;209;1.89
+JPN;15/06/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;148;1.34
+JPN;15/07/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;349;3.1
+JPN;15/07/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2407;21.41
+JPN;15/07/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;569;5.06
+JPN;15/07/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;251;2.23
+JPN;15/07/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;204;1.81
+JPN;15/07/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;320;2.85
+JPN;15/07/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2444;21.74
+JPN;15/07/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;610;5.43
+JPN;15/07/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;252;2.24
+JPN;15/07/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.83
+JPN;15/07/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.77
+JPN;15/07/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;174;1.55
+JPN;15/07/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;197;1.75
+JPN;15/08/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;342;3.09
+JPN;15/08/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2416;21.82
+JPN;15/08/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;569;5.14
+JPN;15/08/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;255;2.3
+JPN;15/08/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;205;1.85
+JPN;15/08/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.78
+JPN;15/08/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;249;2.25
+JPN;15/08/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;325;2.94
+JPN;15/08/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2453;22.15
+JPN;15/08/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;604;5.45
+JPN;15/08/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;256;2.31
+JPN;15/08/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.88
+JPN;15/08/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;216;1.95
+JPN;15/08/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;238;2.15
+JPN;15/09/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;362;3.23
+JPN;15/09/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2378;21.23
+JPN;15/09/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;246;2.2
+JPN;15/09/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.86
+JPN;15/09/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;197;1.76
+JPN;15/09/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;172;1.54
+JPN;15/09/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;341;3.04
+JPN;15/09/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2437;21.76
+JPN;15/09/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;598;5.34
+JPN;15/09/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;255;2.28
+JPN;15/09/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.86
+JPN;15/09/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;147;1.31
+JPN;15/09/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;232;2.07
+JPN;15/10/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;381;3.41
+JPN;15/10/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2342;20.96
+JPN;15/10/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;5.21
+JPN;15/10/2018;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;240;2.15
+JPN;15/10/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.85
+JPN;15/10/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;199;1.78
+JPN;15/10/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;216;1.93
+JPN;15/10/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;333;2.98
+JPN;15/10/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2473;22.13
+JPN;15/10/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;609;5.45
+JPN;15/10/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;252;2.25
+JPN;15/10/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;208;1.86
+JPN;15/10/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.8
+JPN;15/10/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;170;1.52
+JPN;15/10/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;197;1.76
+JPN;15/11/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;346;3.05
+JPN;15/11/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2398;21.11
+JPN;15/11/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;582;5.12
+JPN;15/11/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.82
+JPN;15/11/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.73
+JPN;15/11/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;225;1.98
+JPN;15/11/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;192;1.69
+JPN;15/11/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;317;2.79
+JPN;15/11/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2466;21.7
+JPN;15/11/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;256;2.25
+JPN;15/11/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.82
+JPN;15/11/2018;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.74
+JPN;15/11/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;174;1.53
+JPN;15/11/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;147;1.29
+JPN;15/12/2018;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;353;3.12
+JPN;15/12/2018;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2344;20.71
+JPN;15/12/2018;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;554;4.89
+JPN;15/12/2018;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;205;1.81
+JPN;15/12/2018;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.73
+JPN;15/12/2018;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;179;1.58
+JPN;15/12/2018;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;139;1.23
+JPN;15/12/2018;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;322;2.84
+JPN;15/12/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2433;21.5
+JPN;15/12/2018;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;597;5.27
+JPN;15/12/2018;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;251;2.22
+JPN;15/12/2018;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.83
+JPN;15/12/2018;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;138;1.22
+JPN;15/12/2018;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;111;0.98
+JPN;15/01/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2353;21.65
+JPN;15/01/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;562;5.17
+JPN;15/01/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;255;2.35
+JPN;15/01/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.91
+JPN;15/01/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.8
+JPN;15/01/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;190;1.75
+JPN;15/01/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;163;1.5
+JPN;15/01/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;596;5.48
+JPN;15/01/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;256;2.36
+JPN;15/01/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.91
+JPN;15/01/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;195;1.79
+JPN;15/01/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;177;1.63
+JPN;15/01/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;137;1.26
+JPN;15/02/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;390;3.53
+JPN;15/02/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2419;21.9
+JPN;15/02/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;571;5.17
+JPN;15/02/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;253;2.29
+JPN;15/02/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;206;1.86
+JPN;15/02/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;196;1.77
+JPN;15/02/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;202;1.83
+JPN;15/02/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.48
+JPN;15/02/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;337;3.05
+JPN;15/02/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2453;22.2
+JPN;15/02/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;593;5.37
+JPN;15/02/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;260;2.35
+JPN;15/02/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;209;1.89
+JPN;15/02/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.82
+JPN;15/02/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;186;1.68
+JPN;15/02/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;151;1.37
+JPN;15/03/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;333;2.99
+JPN;15/03/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2457;22.05
+JPN;15/03/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;599;5.37
+JPN;15/03/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;256;2.3
+JPN;15/03/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;207;1.86
+JPN;15/03/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;154;1.38
+JPN;15/03/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;157;1.41
+JPN;15/03/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2451;21.99
+JPN;15/03/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;596;5.35
+JPN;15/03/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;264;2.37
+JPN;15/03/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;210;1.88
+JPN;15/03/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.81
+JPN;15/03/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;139;1.25
+JPN;15/03/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;136;1.22
+JPN;15/04/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;343;3.06
+JPN;15/04/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2404;21.46
+JPN;15/04/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;257;2.29
+JPN;15/04/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;186;1.66
+JPN;15/04/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;337;3.01
+JPN;15/04/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2443;21.81
+JPN;15/04/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;599;5.35
+JPN;15/04/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;265;2.37
+JPN;15/04/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;214;1.91
+JPN;15/04/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;202;1.8
+JPN;15/04/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;177;1.58
+JPN;15/04/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;164;1.46
+JPN;15/07/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;363;3.36
+JPN;15/07/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2392;22.17
+JPN;15/07/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;580;5.38
+JPN;15/07/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;250;2.32
+JPN;15/07/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;213;1.97
+JPN;15/07/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;188;1.74
+JPN;15/07/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;193;1.79
+JPN;15/07/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;197;1.83
+JPN;15/07/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;363;3.36
+JPN;15/07/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2458;22.78
+JPN;15/07/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;600;5.56
+JPN;15/07/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;266;2.47
+JPN;15/07/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;2.01
+JPN;15/07/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;198;1.84
+JPN;15/07/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;159;1.47
+JPN;15/08/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;383;3.61
+JPN;15/08/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;553;5.21
+JPN;15/08/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;248;2.34
+JPN;15/08/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;214;2.02
+JPN;15/08/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;184;1.73
+JPN;15/08/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;202;1.9
+JPN;15/08/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;371;3.5
+JPN;15/08/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;266;2.51
+JPN;15/08/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;216;2.04
+JPN;15/08/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.88
+JPN;15/08/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;188;1.77
+JPN;15/08/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;171;1.61
+JPN;15/09/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;333;3.09
+JPN;15/09/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2448;22.71
+JPN;15/09/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;581;5.39
+JPN;15/09/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;256;2.37
+JPN;15/09/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.99
+JPN;15/09/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;188;1.74
+JPN;15/09/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;199;1.85
+JPN;15/09/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;205;1.9
+JPN;15/09/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;334;3.1
+JPN;15/09/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2475;22.96
+JPN;15/09/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;599;5.56
+JPN;15/09/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;262;2.43
+JPN;15/09/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;218;2.02
+JPN;15/09/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.86
+JPN;15/09/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;177;1.64
+JPN;15/09/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;175;1.62
+JPN;15/10/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;326;3
+JPN;15/10/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2461;22.61
+JPN;15/10/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;583;5.36
+JPN;15/10/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;252;2.32
+JPN;15/10/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;214;1.97
+JPN;15/10/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;188;1.73
+JPN;15/10/2019;JAPAN;Osaka;2620;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;200;1.84
+JPN;15/10/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;197;1.81
+JPN;15/10/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;329;3.02
+JPN;15/10/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2474;22.73
+JPN;15/10/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;606;5.57
+JPN;15/10/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;264;2.43
+JPN;15/10/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;217;1.99
+JPN;15/10/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;201;1.85
+JPN;15/10/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;154;1.41
+JPN;15/10/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;169;1.55
+JPN;15/11/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;330;3.03
+JPN;15/11/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2466;22.67
+JPN;15/11/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;575;5.29
+JPN;15/11/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.98
+JPN;15/11/2019;JAPAN;Osaka;2620;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;178;1.64
+JPN;15/11/2019;JAPAN;Tokyo;2619;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;321;2.95
+JPN;15/11/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2483;22.83
+JPN;15/11/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;610;5.61
+JPN;15/11/2019;JAPAN;Tokyo;2619;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;264;2.43
+JPN;15/11/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;216;1.99
+JPN;15/11/2019;JAPAN;Tokyo;2619;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;199;1.83
+JPN;15/11/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;161;1.48
+JPN;15/12/2019;JAPAN;Osaka;2620;cereals and tubers;Potatoes;83;KG;actual;Retail;JPY;329;3.01
+JPN;15/12/2019;JAPAN;Osaka;2620;cereals and tubers;Rice;52;5 KG;actual;Retail;JPY;2434;22.24
+JPN;15/12/2019;JAPAN;Osaka;2620;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;568;5.19
+JPN;15/12/2019;JAPAN;Osaka;2620;cereals and tubers;Wheat flour;58;KG;actual;Retail;JPY;258;2.36
+JPN;15/12/2019;JAPAN;Osaka;2620;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.96
+JPN;15/12/2019;JAPAN;Osaka;2620;miscellaneous food;Sugar;97;KG;actual;Retail;JPY;184;1.68
+JPN;15/12/2019;JAPAN;Tokyo;2619;cereals and tubers;Rice (glutinous, unmilled);196;KG;actual;Retail;JPY;610;5.57
+JPN;15/12/2019;JAPAN;Tokyo;2619;milk and dairy;Milk;81;L;actual;Retail;JPY;215;1.96
+JPN;15/12/2019;JAPAN;Tokyo;2619;vegetables and fruits;Cabbage;181;KG;actual;Retail;JPY;154;1.41
+JPN;15/12/2019;JAPAN;Tokyo;2619;vegetables and fruits;Radish;579;KG;actual;Retail;JPY;151;1.38
