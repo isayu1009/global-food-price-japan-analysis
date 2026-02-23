@@ -2,11 +2,10 @@
       The aim of this project is to understand how Japanese food prices evolved over almost a decade and to build a predictive model for local food prices using available features.
       
 📊 2. Data Exploration <br/>
-      Missing Values
+      Missing Values<br/>
       * The dataset contained missing entries in the market column.
-      * These were filled using reference information from other rows (e.g., product‑to‑market consistency).
-
-      Correlation Analysis
+      * These were filled using reference information from other rows (e.g., product‑to‑market consistency). <br/>
+      Correlation Analysis<br/>
       * A heatmap revealed weak correlations between most variables.
       * This indicates that the dataset is largely independent across features and may benefit from feature engineering.
 
